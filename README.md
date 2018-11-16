@@ -4,4 +4,3 @@
 
 [translations](./translations)
 
-<script src="https://gist.github.com/skepticalcrow/d955a21e156a981b583057028d7bf4ba.js"></script>
